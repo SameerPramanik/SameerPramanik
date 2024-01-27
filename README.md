@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SameerPramanik.
 - 🏠 Basically i am from jamshedpur.
 - 👀 I’m interested in Frontend developer And Full stack Development job
-- 🌱 I’m currently learning MERN Stack Development (Html, Css , Javascript, React js, Express js , Mongodb and many more Technology )
+- 📘 I’m currently learning MERN Stack Development (Html, Css , Javascript, React js, Express js , Mongodb and many more Technology )
 - 💞️ I’m looking to collaborate on Full stack developer 
 - 📫 Reach me at [sameerpramanik042@gmail.com] ...
 - 🔗 Linkin id:[https://www.linkedin.com/in/sameer-pramanik-bb5628207/]
